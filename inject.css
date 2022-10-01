@@ -1,0 +1,11 @@
+.highlighter{
+    outline:1px solid red !important;
+}
+.highlighterText{
+    width: 0;
+    height: 0;
+    position: absolute;
+    opacity: 0;
+    display: none;
+
+}
