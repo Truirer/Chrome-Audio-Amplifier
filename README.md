@@ -1,6 +1,6 @@
 # Chrome-Audio-Amplifier
 
-Adding this extension to your Chrome browser lets you add shortcuts to urls on your browser. Keep in mind that predefined shortcuts will not work! 
+Adding this extension to your Chrome browser lets you change the volume of any video in page. Keep in mind that this won't work in iframes.
 
 Installation Instructions:
 
