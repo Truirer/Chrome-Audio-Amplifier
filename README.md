@@ -10,4 +10,5 @@ Installation Instructions:
 4. Click the now-visible "Load unpacked extension…" button. Navigate to the directory where you cloned the repo, then the src    directory under that.
 5. This extension should now be visible in your extensions list.
 6. Click the extension button (which looks like a puzzle piece) and click on the ChromeKey.
-7. Click on setup button to be redirected to the setup page.
+7. Click on needle to pin in place.
+8. Adjust the volume by changing the range input.
